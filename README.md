@@ -1,6 +1,6 @@
 # Go Short!
 
-A simple URL shortener in Go.
+A simple URL shortener written in Go.
 
 ## License
 
